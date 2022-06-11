@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mazzdriver
-- 👀 I’m interested in coding, Machine Learning and easy money) 
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: t.me/massdriver

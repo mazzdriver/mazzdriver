@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @mazzdriver
-- 👀 I’m highly interested in neutral networks
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on some powerful Python software
-- 📫 How to reach me: t.me/massdriver
+<h1 align="center">Hello, I'm Beloglazov Oleg</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-Here's my stack:
+<h3 align="center">QA-engineer</h3>
 
-Python, SQL, HTML, Markdown, bash
+### What I can:
+
+### Python:
+#### Python-based statistics tool for psychology in science 
+*in progress* 
+https://github.com/mazzdriver/psycho-data
+
+#### App to handle reviewes of coffee beans for home using
+https://github.com/mazzdriver/sturdy-coffee
+
+### QA:
+#### Repository with homeworks
+https://github.com/mazzdriver/postman
+
+### Sertificates:
+<details>
+    <summary>Python</summary>
+    <img src='img/python-eng.png'>
+</details>
+
+<details>
+    <summary>Testing</summary>
+    <img src='img/kvchk-eng.png'>
+</details>
+
+<details>
+    <summary>Postman</summary>
+    <img src='img/postman-eng.png'>
+</details>
+
+<details>
+    <summary>Basic training hahaha</summary>
+    <img src='img/kmb-eng.png'>
+</details>
 
 <!---
 mazzdriver/mazzdriver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

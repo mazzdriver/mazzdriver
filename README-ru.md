@@ -3,15 +3,6 @@
 
 <h3 align="center">QA-engineer</h3>
 
-### Что я умею:
-
-### Python:
-#### Статистический инструмент для сбора и анализа данных в психологии 
-*in progress* 
-https://github.com/mazzdriver/psycho-data
-
-#### Приложение для сбора собственных отзывов на покупной кофе
-https://github.com/mazzdriver/sturdy-coffee
 
 ### QA:
 #### Репозиторий домашних заданий

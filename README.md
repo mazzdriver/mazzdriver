@@ -3,15 +3,7 @@
 
 <h3 align="center">QA-engineer</h3>
 
-### What I can:
 
-### Python:
-#### Python-based statistics tool for psychology in science 
-*in progress* 
-https://github.com/mazzdriver/psycho-data
-
-#### App to handle reviewes of coffee beans for home using
-https://github.com/mazzdriver/sturdy-coffee
 
 ### QA:
 #### Repository with homeworks
